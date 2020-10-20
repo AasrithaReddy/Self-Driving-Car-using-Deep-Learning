@@ -139,3 +139,5 @@ plt.plot(history.history['val_loss'])
 plt.legend(['training', 'validation'])
 plt.title('Loss')
 plt.xlabel('Epoch')
+
+
